@@ -1,0 +1,7 @@
+{
+"PROD": true,
+"VITE_AUTH_URL": "https://auth.aptible.com",
+"VITE_API_URL": "https://api.aptible.com",
+"VITE_LEGACY_DASHBOARD_URL": "https://dashboard.aptible.com",
+"VITE_METRIC_TUNNEL_URL": "https://metrictunnel-nextgen.aptible.com"
+}

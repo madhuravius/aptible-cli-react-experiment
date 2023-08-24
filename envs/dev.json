@@ -1,0 +1,7 @@
+{
+"PROD": false,
+"VITE_AUTH_URL": "https://app-sbx-main.aptible-sandbox.com",
+"VITE_API_URL": "https://api-sbx-main.aptible-sandbox.com",
+"VITE_LEGACY_DASHBOARD_URL": "https://dashboard-sbx-main.aptible-sandbox.com",
+"VITE_METRIC_TUNNEL_URL": "https://metrictunnel-sbx-main.aptible-sandbox.com"
+}
